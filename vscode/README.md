@@ -9,9 +9,9 @@ https://iconverticons.com/icons/a6f4b751accdedb6/
 
 ## Insider
 
-![vscodeinsider.png]()
+![vscodeinsider.png](https://raw.githubusercontent.com/1l0/logo/master/vscode/vscodeinsider.png)
 
-![vscodeinsiderdock.png]()
+![vscodeinsiderdock.png](https://raw.githubusercontent.com/1l0/logo/master/vscode/vscodeinsiderdock.png)
 
 Download:
 https://iconverticons.com/icons/9d027c03b10b2e00/
