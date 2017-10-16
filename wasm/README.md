@@ -1,0 +1,1 @@
+# Failed WASM logo proposal
